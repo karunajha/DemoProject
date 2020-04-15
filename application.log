@@ -1,0 +1,4 @@
+2020-04-15 18:49:53,935  INFO [main] ebanking:12 - URL is opened
+2020-04-15 18:49:54,149  INFO [main] ebanking:15 - Entered usesrname
+2020-04-15 18:49:54,293  INFO [main] ebanking:17 - Entered usesrname
+2020-04-15 18:54:57,908  INFO [main] ebanking:23 - login test Passed
